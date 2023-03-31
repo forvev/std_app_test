@@ -73,7 +73,7 @@ private ActivityMainBinding binding;
     }
 
     public String getPath(){
-        String my_field;
+        String my_field="";
 
         return my_field;
     }
